@@ -30,9 +30,9 @@ The repository is structured to serve as both a learning record and a reference 
 |-----------|---------------------------------------------------|---------|
 | **Phase 1**|**Getting Started**|
 | Module 1  | What is Power BI, Interface Tour, First Dataset Load | ✅      |
-| Module 2  | Connecting to Data Sources                         | ✅      |
+| Module 2  | Connecting to Data Sources - Data Import                      | ✅      |
 | **Phase 2**|**Power Query (ETL)**|
-| Module 3  | Power Query — Cleaning and Transforming Data       | ✅      |
+| Module 3  | Power Query —Data Transformation      | ✅      |
 | **Phase 3**|**Data Modeling** |   |   |
 | Module 4  | Star Schema, Relationships, Cardinality, Filter Direction | ✅ |
 | **Phase 4**|**DAX** |   |   |
@@ -54,7 +54,7 @@ The repository is structured to serve as both a learning record and a reference 
 |--------|-----------------------|-----------------------------------------------------------------------------|----------|
 | 1      | What is Power BI      | Power BI vs Excel, 3 Views (Report/Table/Model), BI Workflow                | ✅       |
 | 2      | Connecting to Data    | Get Data, Import vs DirectQuery, Transform vs Load, Navigator               | ✅       |
-| 3      |   Power Query         |Cleaning and Transforming Data                                               | ✅       |
+| 3      |  Power Query         |Cleaning and Transforming Data                                               | ✅       |
 | 4      | Data Modeling         |Star Schema, Relationships, Cardinality, Filter Direction                    | ✅      |
 | 5      | DAX Basics            | —                                                                           | Pending  |
 | 6      | CALCULATE             | —                                                                           | Pending  |
@@ -75,7 +75,7 @@ PowerBI-Learning/
 
 ├── Phase-01-Getting-Started/
 │   ├── README.md                       ← Phase summary and overview
-│   ├── Module-01-Getting-Started/
+│   ├── Module-01-Introduction to Power BI/
 │   │   └── Module01-Notes.pdf
 │   └── Module-02-Connecting-Data/
 │       └── Module02-Notes.pdf
