@@ -75,14 +75,14 @@ PowerBI-Learning/
 
 ├── Phase-01-Getting-Started/
 │   ├── README.md                       ← Phase summary and overview
-│   ├── Module-01-Introduction to Power BI/
+│   ├── Module-01-Introduction-to-Power BI/
 │   │   └── Module01-Notes.pdf
 │   └── Module-02-Connecting-Data/
 │       └── Module02-Notes.pdf
 
 ├── Phase-02-Power-Query-ETL/
 │   ├── README.md
-│   └── Module-03-Data-Modeling/
+│   └── Module-03-Data-Transformation/
 │       └── Module03-Notes.pdf
 
 ├── Phase-03-Data-Modeling/
