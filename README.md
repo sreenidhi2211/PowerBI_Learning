@@ -20,7 +20,7 @@ The repository is structured to serve as both a learning record and a reference 
 
 •	Mistakes and corrections documented honestly for deeper understanding from Module 3
 
-**Dataset Used**: Superstore Sales (Single Excel source — Orders, Returns, People sheets)
+**Dataset Used**: Superstore Sales (Single Excel Workbook source — Orders, Returns, People sheets coverted to tables using (Ctrl+T))
 
 ** *** **
 
@@ -36,7 +36,7 @@ The repository is structured to serve as both a learning record and a reference 
 | **Phase 3**|**Data Modeling** |   |   |
 | Module 4  | Star Schema, Relationships, Cardinality, Filter Direction | ✅ |
 | **Phase 4**|**DAX** |   |   |
-| Module 5  | DAX Basics — Calculated Columns vs Measures        | Pending |
+| Module 5  | DAX Basics — Calculated Columns vs Measures        | ✅ |
 | Module 6  | CALCULATE and Filter Context                       | Pending |
 | Module 7  | Time Intelligence Functions                        | Pending |
 | Module 8  | Advanced DAX — RANKX, SWITCH, Variables            | Pending |
@@ -52,11 +52,11 @@ The repository is structured to serve as both a learning record and a reference 
 ## Progress Tracker
 | Module | Topic                 | Key Concepts Covered                                                        | Status   |
 |--------|-----------------------|-----------------------------------------------------------------------------|----------|
-| 1      | What is Power BI      | Power BI vs Excel, 3 Views (Report/Table/Model), BI Workflow                | ✅       |
+| 1      | Introduction to PowerBI      | Power BI vs Excel, 3 Views (Report/Table/Model), BI Workflow                | ✅       |
 | 2      | Connecting to Data    | Get Data, Import vs DirectQuery, Transform vs Load, Navigator               | ✅       |
-| 3      |  Power Query         |Cleaning and Transforming Data                                               | ✅       |
+| 3      |  Data Transformation        |Cleaning and Transforming Data                                               | ✅       |
 | 4      | Data Modeling         |Star Schema, Relationships, Cardinality, Filter Direction                    | ✅      |
-| 5      | DAX Basics            | —                                                                           | Pending  |
+| 5      | DAX Basics            | —                                                                           | ✅  |
 | 6      | CALCULATE             | —                                                                           | Pending  |
 | 7      | Time Intelligence     | —                                                                           | Pending  |
 | 8      | Advanced DAX          | —                                                                           | Pending  |
@@ -76,35 +76,35 @@ PowerBI-Learning/
 ├── Phase-01-Getting-Started/
 │   ├── README.md                       ← Phase summary and overview
 │   ├── Module-01-Introduction-to-Power BI/
-│   │   └── Module01-Notes.pdf
+│   │   └── Module-01-Notes.pdf
 │   └── Module-02-Connecting-Data/
-│       └── Module02-Notes.pdf
+│       └── Module-02-Notes.pdf
 
 ├── Phase-02-Power-Query-ETL/
 │   ├── README.md
 │   └── Module-03-Data-Transformation/
-│       └── Module03-Notes.pdf
+│       └── Module-03-Notes.pdf
 
 ├── Phase-03-Data-Modeling/
 │   ├── README.md
 │   └── Module-04-Data-Modeling/
-│       └── Module04-Notes.pdf
+│       └── Module-04-Notes.pdf
 
 ├── Phase-04-DAX/
 │   ├── README.md
 │   ├── Module-05-DAX-Basics/
-│   │   └── Module05-Notes.pdf
+│   │   └── Module-05-Notes.pdf
 │   ├── Module-06-CALCULATE/
-│   │   └── Module06-Notes.pdf
+│   │   └── Module-06-Notes.pdf
 │   ├── Module-07-Time-Intelligence/
-│   │   └── Module07-Notes.pdf
+│   │   └── Module-07-Notes.pdf
 │   └── Module-08-Advanced-DAX/
-│       └── Module08-Notes.pdf
+│       └── Module-08-Notes.pdf
 
 ├── Phase-05-Visualization-Dashboard-Design/
 │   ├── README.md
 │   ├── Module-09-Visualization/
-│   │   └── Module09-Notes.pdf
+│   │   └── Module-09-Notes.pdf
 │   └── Module-10-Dashboard-Design/
 │       └── Module10-Notes.pdf
 
