@@ -31,7 +31,7 @@ The repository is structured to serve as both a learning record and a reference 
 | **Phase 1**|**Getting Started**|
 | Module 1  | What is Power BI, Interface Tour, First Dataset Load | ✅      |
 | Module 2  | Connecting to Data Sources - Data Import                      | ✅      |
-| **Phase 2**|**Power Query (ETL)**|
+| **Phase 2**|**Power Query**|
 | Module 3  | Power Query —Data Transformation      | ✅      |
 | **Phase 3**|**Data Modeling** |   |   |
 | Module 4  | Star Schema, Relationships, Cardinality, Filter Direction | ✅ |
@@ -80,7 +80,7 @@ PowerBI-Learning/
 │   └── Module-02-Connecting-Data/
 │       └── Module-02-Notes.pdf
 
-├── Phase-02-Power-Query-ETL/
+├── Phase-02-Power-Query/
 │   ├── README.md
 │   └── Module-03-Data-Transformation/
 │       └── Module-03-Notes.pdf
@@ -106,14 +106,14 @@ PowerBI-Learning/
 │   ├── Module-09-Visualization/
 │   │   └── Module-09-Notes.pdf
 │   └── Module-10-Dashboard-Design/
-│       └── Module10-Notes.pdf
+│       └── Module-10-Notes.pdf
 
 ├── Phase-06-Real-World-Projects/
 │   ├── README.md
 │   ├── Module-11-Sales-Dashboard/
-│   │   └── Module11-Notes.pdf
+│   │   └── Module-11-Notes.pdf
 │   ├── Module-12-HR-Finance-Dashboard/
-│   │   └── Module12-Notes.pdf
+│   │   └── Module-12-Notes.pdf
 │   └── Module-13-Publishing-Security/
-│       └── Module13-Notes.pdf
+│       └── Module-13-Notes.pdf
 ```
