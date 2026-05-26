@@ -22,7 +22,7 @@ An introduction to Power BI Desktop: what it is, how it compares to Excel, and h
 
 **Key concepts:** Power BI vs Excel, Report / Table / Model views, the Connect → Transform → Model → Visualize → Share workflow.  
 **Status:** ✅ Complete  
-**Notes:** `Module-01-Getting-Started/Module01-Notes.pdf`
+**Notes:** `Module-01-Introduction-to-PowerBI/Module01-Notes.pdf`
 
 ---
 
@@ -40,8 +40,8 @@ How Power BI connects to data sources and the correct process for loading data. 
 
 ```
 Phase-01-Getting-Started/
-├── README.md                        ← This file
-├── Module-01-Getting-Started/
+├── README.md                        
+├── Module-01-Introduction-to-PowerBI/
 │   └── Module01-Notes.pdf
 └── Module-02-Connecting-Data/
     └── Module02-Notes.pdf
