@@ -34,7 +34,7 @@ The repository is structured to serve as both a learning record and a reference 
 | **Phase 2**|**Power Query**|
 | Module 3  | Power Query —Data Transformation      | ✅      |
 | **Phase 3**|**Data Modeling** |   |   |
-| Module 4  | Star Schema, Relationships, Cardinality, Filter Direction | ✅ |
+| Module 4  | Data Modeling-Star Schema, Relationships, Cardinality, Filter Direction | ✅ |
 | **Phase 4**|**DAX** |   |   |
 | Module 5  | DAX Basics — Calculated Columns vs Measures        | ✅ |
 | Module 6  | CALCULATE and Filter Context                       | Pending |
@@ -56,7 +56,7 @@ The repository is structured to serve as both a learning record and a reference 
 | 2      | Connecting to Data    | Get Data, Import vs DirectQuery, Transform vs Load, Navigator               | ✅       |
 | 3      |  Data Transformation        |Cleaning and Transforming Data                                               | ✅       |
 | 4      | Data Modeling         |Star Schema, Relationships, Cardinality, Filter Direction                    | ✅      |
-| 5      | DAX Basics            | —                                                                           | ✅  |
+| 5      | DAX Basics            |what is DAX: Calculated columns and Measures| ✅  |
 | 6      | CALCULATE             | —                                                                           | Pending  |
 | 7      | Time Intelligence     | —                                                                           | Pending  |
 | 8      | Advanced DAX          | —                                                                           | Pending  |
