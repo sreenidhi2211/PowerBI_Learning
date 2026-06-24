@@ -29,7 +29,7 @@ Covers the foundational concepts of DAX — syntax, functions, and context. Esta
 Covers CALCULATE in depth — the most important function in DAX. Explores how filter context is created, modified, and overridden programmatically.
 
 **Key concepts:** CALCULATE, filter context manipulation, ALL, ALLSELECTED, REMOVEFILTERS, context transition.  
-**Status:** ⏳ Pending  
+**Status:**  ✅ Complete 
 **Notes:** `Module-06-CALCULATE/Module-06-Notes.pdf`
 
 ---
